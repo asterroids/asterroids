@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://asterro1ds.atabook.org/">[atabook]</a> + <a href="https://hasuwaru.straw.page/">[strawpage]</a> + <a href="https://colormytree.me/2025/01JE5FYPWEANYFXHPYBHAGGHRT">[color my tree 🎄]</a>
+</p>
 
-<!--
-**asterroids/asterroids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img width="200" src="https://64.media.tumblr.com/c24e45a6425af6c8429a1d7c834b72a9/5170b09c817a3f6f-6b/s250x400/3b194b6c3d32c6845880c917a012389a4f53e33b.gifv" alt="Niko Dance">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+all links provided on my
+</p>
+<p align="center">
+  <a href="https://guns.lol/halvedheart">guns.lol</a>
+</p>
