@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://asterro1ds.atabook.org/">[atabook]</a> + <a href="https://hasuwaru.straw.page/">[strawpage]</a> + <a href="https://colormytree.me/2025/01JE5FYPWEANYFXHPYBHAGGHRT">[color my tree 🎄]</a>
+  <a href="https://asterro1ds.atabook.org/">[atabook]</a> + <a href="https://hasuwaru.straw.page/">[strawpage]</a> 
 </p>
 
 <p align="center">
